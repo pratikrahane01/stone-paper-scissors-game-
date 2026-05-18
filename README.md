@@ -2,11 +2,55 @@
 
 A simple command-line Stone, Paper, Scissors game built using Python fundamentals like functions, conditional statements, and input handling.
 
-## 📸 Gameplay Screenshot / Video
+## 📸 Gameplay Examples
 
-<!-- You can drag and drop your image (.png/.jpg) or video (.mp4/.gif) directly into the GitHub editor! -->
-<!-- Or, if saved locally, replace the file below with your filename: -->
-![Gameplay](screenshot.png)
+Here is what the gameplay looks like in the terminal:
+
+**Example 1: Winning a game**
+```text
+Welcome to Stone Paper Scissor Game
+
+Rules:
+Stone breaks Scissor
+Paper covers Stone
+Scissor cuts Paper
+
+Choose Stone, Paper or Scissor: stone
+
+Computer is thinking...
+
+You chose: Stone
+Computer chose: Scissor
+Result: You Win
+
+Thanks for playing
+```
+
+**Example 2: Losing a game**
+```text
+Choose Stone, Paper or Scissor: paper
+
+Computer is thinking...
+
+You chose: Paper
+Computer chose: Scissor
+Result: Computer Wins
+
+Thanks for playing
+```
+
+**Example 3: A Draw**
+```text
+Choose Stone, Paper or Scissor: scissor
+
+Computer is thinking...
+
+You chose: Scissor
+Computer chose: Scissor
+Result: Draw
+
+Thanks for playing
+```
 
 ## 🚀 How to Play
 
